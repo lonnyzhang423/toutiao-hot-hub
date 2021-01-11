@@ -1,6 +1,10 @@
+import logging
 import os
 from datetime import datetime
 
+logging.basicConfig(format='%(asctime)s %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
+logger.setLevel(level=logging.INFO)
 
 def currentTimeStr():
     return datetime.now().astimezone().strftime('%Y-%m-%d %H:%M:%S %z')
