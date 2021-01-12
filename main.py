@@ -55,7 +55,7 @@ def generateReadme(items):
         searchMd = '\n'.join([search(item) for item in items])
 
     md = ''
-    file = os.path.join('template', 'archive.md')
+    file = os.path.join('template', 'README.md')
     with open(file) as f:
         md = f.read()
 
