@@ -1,7 +1,5 @@
 import json
-import logging
 import os
-import traceback
 import urllib.parse
 
 import requests
@@ -89,8 +87,8 @@ def saveResponse(resp: Response):
 
 def run():
     # 获取数据
-    tt = Toutiao()
-    searches, resp = tt.get_search()
+    toutiao = Toutiao()
+    searches, resp = toutiao.get_hot_search()
     # 保存响应内容
     saveResponse(resp)
     # 最新数据

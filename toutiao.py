@@ -1,5 +1,4 @@
 import contextlib
-import traceback
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -27,7 +26,7 @@ def request_session():
 
 class Toutiao:
 
-    def get_search(self):
+    def get_hot_search(self):
         items = []
         resp = None
         try:
@@ -38,11 +37,11 @@ class Toutiao:
                 obj = resp.json()
                 items = obj['data']
         except:
-            logger.warn(traceback.format_exc())
+            logger.exception('get hot search failed')
         return (items, resp)
 
 
 if __name__ == "__main__":
     tt = Toutiao()
-    searches, resp = tt.get_search()
+    searches, resp = tt.get_hot_search()
     logger.info('searches:%s', searches[0])
