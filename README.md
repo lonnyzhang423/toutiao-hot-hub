@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-02-23 17:15:09 +0800`
+`更新时间：2021-02-23 18:16:13 +0800`
 
 ## 热门搜索
 
@@ -39,7 +39,7 @@
 1. [男子杀岳父母逃亡 系上门女婿](https://so.toutiao.com/search?keyword=%E7%94%B7%E5%AD%90%E6%9D%80%E5%B2%B3%E7%88%B6%E6%AF%8D%E9%80%83%E4%BA%A1%20%E7%B3%BB%E4%B8%8A%E9%97%A8%E5%A5%B3%E5%A9%BF)
 1. [美新冠死亡超50万 拜登默哀](https://so.toutiao.com/search?keyword=%E7%BE%8E%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E8%B6%8550%E4%B8%87%20%E6%8B%9C%E7%99%BB%E9%BB%98%E5%93%80)
 1. [教育部：不得要求家长检查批改作业](https://so.toutiao.com/search?keyword=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B8%8D%E5%BE%97%E8%A6%81%E6%B1%82%E5%AE%B6%E9%95%BF%E6%A3%80%E6%9F%A5%E6%89%B9%E6%94%B9%E4%BD%9C%E4%B8%9A)
-1. [俄罗斯会与欧盟断绝关系吗](https://so.toutiao.com/search?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E4%BC%9A%E4%B8%8E%E6%AC%A7%E7%9B%9F%E6%96%AD%E7%BB%9D%E5%85%B3%E7%B3%BB%E5%90%97)
+1. [俄欧关系再恶化，俄方：断交就断交](https://so.toutiao.com/search?keyword=%E4%BF%84%E6%AC%A7%E5%85%B3%E7%B3%BB%E5%86%8D%E6%81%B6%E5%8C%96%EF%BC%8C%E4%BF%84%E6%96%B9%EF%BC%9A%E6%96%AD%E4%BA%A4%E5%B0%B1%E6%96%AD%E4%BA%A4)
 1. [郑爽延期开庭诉求遭驳回](https://so.toutiao.com/search?keyword=%E9%83%91%E7%88%BD%E5%BB%B6%E6%9C%9F%E5%BC%80%E5%BA%AD%E8%AF%89%E6%B1%82%E9%81%AD%E9%A9%B3%E5%9B%9E)
 1. [34岁“李秋歌”近照](https://so.toutiao.com/search?keyword=34%E5%B2%81%E2%80%9C%E6%9D%8E%E7%A7%8B%E6%AD%8C%E2%80%9D%E8%BF%91%E7%85%A7)
 1. [外卖员持甩棍与17岁店员互殴](https://so.toutiao.com/search?keyword=%E5%A4%96%E5%8D%96%E5%91%98%E6%8C%81%E7%94%A9%E6%A3%8D%E4%B8%8E17%E5%B2%81%E5%BA%97%E5%91%98%E4%BA%92%E6%AE%B4)
