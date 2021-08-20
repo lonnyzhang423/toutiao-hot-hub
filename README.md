@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-08-20 16:18:34 +0800`
+`更新时间：2021-08-20 17:19:26 +0800`
 
 ## 热门搜索
 
@@ -25,7 +25,7 @@
 1. [专家：中国不必急于承认塔利班政权](https://so.toutiao.com/search?keyword=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%BF%85%E6%80%A5%E4%BA%8E%E6%89%BF%E8%AE%A4%E5%A1%94%E5%88%A9%E7%8F%AD%E6%94%BF%E6%9D%83)
 1. [塔利班挨家挨户敲门催人上班](https://so.toutiao.com/search?keyword=%E5%A1%94%E5%88%A9%E7%8F%AD%E6%8C%A8%E5%AE%B6%E6%8C%A8%E6%88%B7%E6%95%B2%E9%97%A8%E5%82%AC%E4%BA%BA%E4%B8%8A%E7%8F%AD)
 1. [央视专访塔利班发言人沙欣](https://so.toutiao.com/search?keyword=%E5%A4%AE%E8%A7%86%E4%B8%93%E8%AE%BF%E5%A1%94%E5%88%A9%E7%8F%AD%E5%8F%91%E8%A8%80%E4%BA%BA%E6%B2%99%E6%AC%A3)
-1. [李现《剩下的11个》官宣头条独播](https://so.toutiao.com/search?keyword=%E6%9D%8E%E7%8E%B0%E3%80%8A%E5%89%A9%E4%B8%8B%E7%9A%8411%E4%B8%AA%E3%80%8B%E5%AE%98%E5%AE%A3%E5%A4%B4%E6%9D%A1%E7%8B%AC%E6%92%AD)
+1. [李现《剩下的11个》头条独播](https://so.toutiao.com/search?keyword=%E6%9D%8E%E7%8E%B0%E3%80%8A%E5%89%A9%E4%B8%8B%E7%9A%8411%E4%B8%AA%E3%80%8B%E5%A4%B4%E6%9D%A1%E7%8B%AC%E6%92%AD)
 1. [塔利班宣布建国当天民众举国旗游行](https://so.toutiao.com/search?keyword=%E5%A1%94%E5%88%A9%E7%8F%AD%E5%AE%A3%E5%B8%83%E5%BB%BA%E5%9B%BD%E5%BD%93%E5%A4%A9%E6%B0%91%E4%BC%97%E4%B8%BE%E5%9B%BD%E6%97%97%E6%B8%B8%E8%A1%8C)
 1. [阿富汗小哥谈为什么百姓害怕想逃离](https://so.toutiao.com/search?keyword=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B0%8F%E5%93%A5%E8%B0%88%E4%B8%BA%E4%BB%80%E4%B9%88%E7%99%BE%E5%A7%93%E5%AE%B3%E6%80%95%E6%83%B3%E9%80%83%E7%A6%BB)
 1. [法拉利女司机回应追尾骂人](https://so.toutiao.com/search?keyword=%E6%B3%95%E6%8B%89%E5%88%A9%E5%A5%B3%E5%8F%B8%E6%9C%BA%E5%9B%9E%E5%BA%94%E8%BF%BD%E5%B0%BE%E9%AA%82%E4%BA%BA)
